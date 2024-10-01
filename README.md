@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   [Solution URL](https://www.frontendmentor.io/learning-paths/building-responsive-layouts--z1qCXVqkD/steps/66f99e1b5832c087f2ce2734/challenge/refactor)
+-   [Live Site URL](https://waragismynickname.github.io/product-preview-card-component/)
 
 ## My process
 
@@ -45,7 +45,7 @@ Users should be able to:
 
 ### What I learned
 
-While working, I encountered a problem on mobile devices due to the button sticking when pressed. Fixed the entire line that I checked in the manual that I often use [Doka-doka](https://doka.guide/css/hover/)
+While working, I encountered a problem on mobile devices due to the button sticking when pressed. Fixed the entire line that I checked in the manual that I often use [Doka-guide](https://doka.guide/css/hover/)
 
 To see how you can add code snippets, see below:
 
@@ -59,7 +59,7 @@ To see how you can add code snippets, see below:
 
 ### Useful resources
 
--   [Doka-Doka](https://doka.guide/css/) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+-   [Doka-guide](https://doka.guide/css/) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 
 ## Author
 
