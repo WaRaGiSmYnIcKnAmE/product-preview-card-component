@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
--   [Solution URL](https://www.frontendmentor.io/learning-paths/building-responsive-layouts--z1qCXVqkD/steps/66f99e1b5832c087f2ce2734/challenge/refactor)
+-   [Solution URL](https://www.frontendmentor.io/solutions/product-preview-card-component-MR8B3g_3Zr)
 -   [Live Site URL](https://waragismynickname.github.io/product-preview-card-component/)
 
 ## My process
