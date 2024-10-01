@@ -59,7 +59,7 @@ To see how you can add code snippets, see below:
 
 ### Useful resources
 
--   [Doka-guide](https://doka.guide/css/) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+-   [Doka-guide](https://doka.guide/css/) - This helped me for CSS.
 
 ## Author
 
